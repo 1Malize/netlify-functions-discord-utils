@@ -40,7 +40,7 @@ As of the initial release, there are currently two functions included, but I'm o
 {
   members: [
     {
-        id: "356143246889713679",
+        id: "356143246889713679"
         username: "Croc#1111",
         joinDate: "2015-04-26T06:26:56.936000+00:00",
         avatarUrl: "https://cdn.discordapp.com/avatars/356143246889713679/f21a9cb92d303b028ffb4d72a99fb779.png?size=256"
